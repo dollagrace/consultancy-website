@@ -199,14 +199,19 @@ button {
     transition: all 0.3s ease;
 }
 
+.hero-mini {
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
 .contact-btn {
-    background: #10b981;
+    background: #047857;
     color: white;
     align-self: center;
 }
 
 .contact-btn:hover {
-    background: #059669;
+    background: #065f46;
     transition: background 0.3s ease;
 }
 
@@ -227,7 +232,7 @@ button {
 
 .stat-box h3 {
     font-size: 2rem;
-    color: #10b981;
+    color: #047857;
     font-weight: 700;
  }
 
