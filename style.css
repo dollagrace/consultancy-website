@@ -162,8 +162,8 @@ a:hover {
     display: flex;
     gap: 30px;
     font-size: 2rem;
-    margin-top: 25px;
-    opacity: 0.85;
+    margin-top: 33px;
+    opacity: 0.65;
 }
 
 .hero-icons span {
@@ -229,6 +229,11 @@ button {
     font-size: 2rem;
     color: #10b981;
     font-weight: 700;
+ }
+
+.stat-box p {
+    font-weight: 500;
+    color: #334155;
  }
 
  #testimonials {
